@@ -1,0 +1,2 @@
+#!/bin/bash
+aplay /usr/share/miyolinux/sounds/shutdown.wav&&loginctl poweroff

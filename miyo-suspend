@@ -1,0 +1,2 @@
+#!/bin/bash
+killall yad&&aplay /usr/share/miyolinux/sounds/suspend.wav&&loginctl suspend
